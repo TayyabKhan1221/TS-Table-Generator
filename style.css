@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(90deg, #db0d31, #28a9e6);
+  }
+  h1 {
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #table-Form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #inputID {
+    border-radius: 5px;
+  }
+  button {
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .time-table {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+  }
+  
